@@ -73,9 +73,9 @@ const About: React.FC = () => {
                 </div>
                 <h3 className="font-news text-2xl text-white mb-4 uppercase">OFFICIAL STATEMENT</h3>
                 <p className="font-mono text-xs text-green-500 mb-4">
-                    > ENCRYPTED TRANSMISSION<br/>
-                    > SENDER: UNKNOWN<br/>
-                    > STATUS: CHILL
+                    &gt; ENCRYPTED TRANSMISSION<br/>
+                    &gt; SENDER: UNKNOWN<br/>
+                    &gt; STATUS: CHILL
                 </p>
                 <p className="font-mono text-gray-400 text-sm">
                     "$DAYCARE token is a decentralized meme asset. We deny all allegations of fraud. We are simply providing digital nutrition to the blockchain."
